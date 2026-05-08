@@ -3,11 +3,11 @@ Desarrollo de habilidades en proyectos del bootcamp TripleTen
 
 # ¡Hola! Soy Paula 👋
 
-Estudiante de Ciencia de Datos y Analista con un enfoque en transformar datos complejos en soluciones accionables. Me apasiona el modelado estadístico, el aprendizaje automático y la creación de visualizaciones que cuenten historias claras.
+Ingeniera en mecatronica, analista de datos con un enfoque en transformar datos complejos en soluciones accionables. 
 
 ## 🚀 Sobre mí
 
-- 📊 Actualmente trabajando en proyectos de **Machine Learning** (Ensembles, Regresiones y Optimización).
+- 📊 Desarrollando proyectos en **Machine Learning** y procesos **ETL**.
 - 🛠️ Mi stack principal incluye: **Python (Pandas, Scikit-learn, Keras), R, SQL** y herramientas de BI como **Power BI**.
 - 🌐 Desarrollando aplicaciones web para análisis de datos con **Flask** y **Streamlit**.
 - 🏊‍♀️ Fuera del código, me encuentro entrenando para retos de resistencia y triatlón.
@@ -22,16 +22,15 @@ Estudiante de Ciencia de Datos y Analista con un enfoque en transformar datos co
 
 ## 📈 Proyectos Destacados
 
-### [Pattern Finder Collective](https://tu-link-aqui.com)
+### [Pattern Finder Collective](https://visualizacion-pedictor-de-fuerza-comercial--paulasalazarcav.replit.app)
 Una plataforma web para el análisis de ventas y marketing que utiliza dashboards dinámicos para identificar tendencias de consumo y optimizar la toma de decisiones.
 
-### [Optimización de Modelos Predictivos](https://github.com/tu-usuario/proyecto)
-Implementación de técnicas de ensamble (Random Forest y Boosting) para mejorar la precisión en conjuntos de datos de alta dimensionalidad.
+### 
 
 ## 📫 Cómo contactarme
 
-- **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-perfil)
-- **Email:** tu.email@ejemplo.com
+- **LinkedIn:** [Paula Andrea Salazar](www.linkedin.com/in/paula-andrea-salazar)
+- **Email:** paulasalazarcaviedes@gmail.com
 
 ---
 
