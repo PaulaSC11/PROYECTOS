@@ -25,7 +25,8 @@ Ingeniera en mecatronica, analista de datos con un enfoque en transformar datos 
 ### [Pattern Finder Collective](https://visualizacion-pedictor-de-fuerza-comercial--paulasalazarcav.replit.app)
 Una plataforma web para el análisis de ventas y marketing que utiliza dashboards dinámicos para identificar tendencias de consumo y optimizar la toma de decisiones.
 
-### 
+### [Proyecto TripleTen](https://drive.google.com/file/d/1cMxvLx-C-HBte-j6sbxr8kpl_u4cmt2b/view?usp=sharing)
+Un informe ejecutivo, con desarrollo estadistico para la toma de decisiones. 
 
 ## 📫 Cómo contactarme
 
